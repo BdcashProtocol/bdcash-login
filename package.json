@@ -1,0 +1,32 @@
+{
+  "name": "@bdcash-protocol/login",
+  "version": "1.1.7",
+  "description": "Enable ID BDCash Login for every website.",
+  "private": false,
+  "main": "src/index.js",
+  "scripts": {
+    "test:local": "node test-cli/test.local.js",
+    "pub": "npm publish --access public",
+    "build": "webpack"
+  },
+  "keywords": [
+    "blockchain",
+    "bdcash",
+    "bdcash protocol"
+  ],
+  "author": "BDCash Protocol",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BdcashProtocol/bdcash-login"
+  },
+  "bugs": {
+    "url": "https://github.com/BdcashProtocol/bdcash-login/issues",
+    "email": "admin@bigdatacash.online"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@bdcashprotocol/core": "^1.0.6s",
+    "qrcode": "^1.4.4"
+  },
+  "devDependencies": {}
+}

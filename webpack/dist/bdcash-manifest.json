@@ -1,0 +1,10 @@
+{
+    "version": "1.0.7",
+    "name": "Login with ID BDCash",
+    "alias": "bdcash-login-button",
+    "options": {
+        "folders": { "exclude": [".*", "node_modules", "db"] },
+        "files": { "include": ["*.*"], "exclude": ["index.html"] }
+    },
+    "address": "LiRXTmP4fe8Q3C3c9VtzzPHaxhMWnVRpTh"
+}

@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <head>
+    <title>ID BDCash Login</title>
+  </head>
+  <body>
+    <div style="padding: 20vh 20%; text-align:center; font-family: 'Courier New';">
+      <h1>Test BDCash Login</h1>
+      <p>Thanks to this button you'll be able to request and inject any ID BDCASH in your web page.</p>
+      <div id="bdcash-login" required="email" gateway="0240f294ef20c7bbb82bae24d8d22c7ab94d195adf153162482b6bf540393d7dd5" dapp="Demo dApp"></div>
+    </div>
+    <script src="./bdcash.login.min.js"></script>
+    <script>
+      function testCallback(sid){
+        alert('Successfully logged in, refreshing now!')
+        location.reload()
+      }
+    </script>
+  </body>
+</html>

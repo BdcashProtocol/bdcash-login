@@ -1,7 +1,7 @@
 const BDCashCore = require('@bdcash-protocol/core')
 const QRCode = require('qrcode')
 
-module.exports = class BDCashCoreLogin {
+module.exports = class BDCashLogin {
     constructor(isBrowser = false) {
         this.isBrowser = false
         if (isBrowser) {

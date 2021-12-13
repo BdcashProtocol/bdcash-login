@@ -1,6 +1,6 @@
 {
   "name": "@bdcash-protocol/login",
-  "version": "1.1.7",
+  "version": "1.0.0",
   "description": "Enable ID BDCash Login for every website.",
   "private": false,
   "main": "src/index.js",
@@ -25,7 +25,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@bdcashprotocol/core": "^1.0.6s",
+    "@bdcash-protocol/core": "^1.0.8",
     "qrcode": "^1.4.4"
   },
   "devDependencies": {}

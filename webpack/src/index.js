@@ -82,7 +82,7 @@ async function initBDCashLogin() {
         loginselection.innerHTML = `<button id="manent-selector">Wallet App</button><button id="sid-selector">SID File</button><button id="qr-selector">QR Card</button>`
         wrapper.appendChild(loginselection)
 
-        // MANENT LOGIN
+        // WEB WALLET LOGIN
 
         const manentwrapper = document.createElement('div')
         manentwrapper.id = 'bdcash-app-login'

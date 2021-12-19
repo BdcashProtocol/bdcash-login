@@ -1,6 +1,6 @@
 {
   "name": "@bdcash-protocol/login",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enable ID BDCash Login for every website.",
   "private": false,
   "main": "src/index.js",

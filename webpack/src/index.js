@@ -1,6 +1,6 @@
 import _ from 'lodash'
-const BDCashLogin = require('@bdcash-protocol/login')
-const BDCashCore = require('@bdcash-protocol/core')
+const BDCashLogin = require('@bdeco/login')
+const BDCashCore = require('@bdeco/core')
 import css from './css/style.css'
 import jsQR from "jsqr"
 
@@ -53,7 +53,7 @@ async function initBDCashLogin() {
 
         const title = document.createElement('h1')
         if (dapp === '') {
-            title.innerHTML = 'Login with ID BDCash'
+            title.innerHTML = 'Login with ID BDCashProtocol'
         } else {
             title.innerHTML = dapp
         }

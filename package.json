@@ -1,7 +1,7 @@
 {
-  "name": "@bdcash-protocol/login",
+  "name": "@bdeco/login",
   "version": "1.0.1",
-  "description": "Enable ID BDCash Login for every website.",
+  "description": "Enable ID BDCashProtocol Login for every website.",
   "private": false,
   "main": "src/index.js",
   "scripts": {
@@ -21,11 +21,11 @@
   },
   "bugs": {
     "url": "https://github.com/BdcashProtocol/bdcash-login/issues",
-    "email": "admin@bigdatacash.online"
+    "email": "partners@bdcashprotocol.com"
   },
   "license": "MIT",
   "dependencies": {
-    "@bdcash-protocol/core": "^1.0.9",
+    "@bdeco/core": "^1.0.0",
     "qrcode": "^1.4.4"
   },
   "devDependencies": {}

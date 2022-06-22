@@ -1,4 +1,4 @@
-const BDCashCore = require('@bdcash-protocol/core')
+const BDCashCore = require('@bdeco/core')
 const QRCode = require('qrcode')
 
 module.exports = class BDCashLogin {

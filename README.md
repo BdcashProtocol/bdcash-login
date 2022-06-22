@@ -46,7 +46,7 @@ If you want to test it you can simply download the package with `git clone`, ins
 
 If you need to check the integrity of the file please use `bdcash-bvc` tool as documented here: https://github.com/BdcashProtocol/bdcash-blockchain-versioning-cli.
 
-All the updates will be uploaded at https://proof.bdcashprotocol.com/#/address/8KuqWhNnJNvgBCLfc16RTQa2aqvk9ZxW6Z
+All the updates will be uploaded at https://proof.bdcashprotocol.com/#/address/BKuqWhNnJNvgBCLfc16RTQa2aqvk9ZxW6Z
 
 ## Demo page
 

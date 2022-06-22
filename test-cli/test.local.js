@@ -1,7 +1,7 @@
 let BDCashLogin = require('../src/index.js')
 let dLogin = new BDCashLogin
 const password = 'MySuperStrongPassword'
-const BDCashCore = require('@bdcash-protocol/core')
+const BDCashCore = require('@bdeco/core')
 const bdcash = new BDCashCore
 
 async function init(){
